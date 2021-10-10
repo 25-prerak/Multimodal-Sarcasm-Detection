@@ -7,6 +7,9 @@ Sarcasm is often used by people to taunt or pester others. It is frequently expr
 
 The types of features used for detecting sarcasm in text and audio are summarized in the below figure.
 
+!Images/1.jpg
+
+
 
 
 
