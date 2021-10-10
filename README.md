@@ -35,7 +35,7 @@ and combined. A 164 length vector is created from a 64 length audio vector and 1
 vector. These vectors are then trained on a classifier to detect the sarcasm from both audio and text 
 files. The visual representation of this model is shown in below.
 
-![](https://github.com/25-prerak/Multimodal-Sarcasm-Detection/blob/main/Images/4.jpg)
+![](https://github.com/25-prerak/Multimodal-Sarcasm-Detection/blob/main/Images/4.png)
 
 The entire coding was done using python 3 and by using the google colab environment.
 
