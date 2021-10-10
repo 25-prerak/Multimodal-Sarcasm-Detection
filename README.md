@@ -39,6 +39,8 @@ files. The visual representation of this model is shown in below.
 
 The entire coding was done using python 3 and by using the google colab environment.
 
+The code can be found in audio_multi_vFinal.ipynb file present in the repository. 
+
 Complete information about the project and the results that we obtained can be found in the Report.pdf file.
 
 This project was completed as a part of my final year project in order to obtain my undergraduate degree.
